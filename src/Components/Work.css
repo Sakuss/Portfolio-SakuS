@@ -1,0 +1,54 @@
+/* Work Section */
+.work-section {
+    color: #ffffff; /* White text for contrast */
+    padding: 40px 20px;
+    border-radius: 8px; /* Rounded corners */
+    margin: 20px auto;
+    max-width: 2000px; /* Center the section and constrain width */
+}
+
+/* Section Heading */
+.work-heading {
+    font-size: 2rem;
+    text-align: center;
+    margin-bottom: 20px;
+    color: #add8e6; /* Light blue highlight color */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6); /* Subtle glow effect */
+}
+
+/* Work List */
+.work-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    list-style: none; /* Remove default list styling */
+    padding: 0;
+    margin: 0;
+    justify-content: space-around;
+}
+
+.work-item {
+    width: 45%;
+    padding: 20px;
+    background: #1e1e1e; /* Slightly lighter background for contrast */
+    border-radius: 8px; /* Rounded corners */
+    transition: transform 0.2s ease-in-out, background-color 0.3s ease-in-out; /* Smooth hover effects */
+}
+
+.work-item:hover {
+    background-color: #333; /* Highlight on hover */
+    transform: translateY(-5px); /* Slight lift effect */
+}
+
+/* Titles and Descriptions */
+.work-title {
+    font-size: 1.2rem;
+    color: #add8e6; /* Same light blue for consistency */
+    margin-bottom: 8px;
+}
+
+.work-description {
+    font-size: 1rem;
+    line-height: 1.6;
+    color: #dddddd; /* Lighter gray for readability */
+}

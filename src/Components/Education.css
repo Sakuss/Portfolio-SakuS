@@ -1,0 +1,51 @@
+/* Education Section */
+.education-section {
+    color: #ffffff; /* White text for contrast */
+    padding: 40px 20px;
+    border-radius: 8px; /* Rounded corners */
+   /* box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3); /* Add depth */
+    margin: 20px auto;
+    max-width: 800px; /* Center and constrain width */
+}
+
+/* Section Heading */
+.education-heading {
+    font-size: 2rem;
+    text-align: center;
+    margin-bottom: 20px;
+    color: #add8e6; /* Light blue highlight color */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6); /* Subtle glow effect */
+}
+
+/* Education List */
+.education-list {
+    list-style: none; /* Remove default list styling */
+    padding: 0;
+    margin: 0;
+}
+
+.education-item {
+    margin-bottom: 20px;
+    padding: 20px;
+    background: #1e1e1e; /* Slightly lighter background for contrast */
+    border-radius: 8px; /* Rounded corners */
+    transition: transform 0.2s ease-in-out, background-color 0.3s ease-in-out; /* Smooth hover effects */
+}
+
+.education-item:hover {
+    background-color: #333; /* Highlight on hover */
+    transform: translateY(-5px); /* Slight lift effect */
+}
+
+/* Titles and Descriptions */
+.education-title {
+    font-size: 1.2rem;
+    color: #add8e6; /* Same light blue for consistency */
+    margin-bottom: 8px;
+}
+
+.education-description {
+    font-size: 1rem;
+    line-height: 1.6;
+    color: #dddddd; /* Lighter gray for better readability */
+}
