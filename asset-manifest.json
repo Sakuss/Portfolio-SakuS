@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Sakuss/Sakuss.github.io/static/css/main.000f210f.css",
-    "main.js": "/Sakuss/Sakuss.github.io/static/js/main.bf3e833a.js",
-    "static/js/453.acca0757.chunk.js": "/Sakuss/Sakuss.github.io/static/js/453.acca0757.chunk.js",
-    "static/media/kuva1.png": "/Sakuss/Sakuss.github.io/static/media/kuva1.87b8c0ba7a30ddfe348d.png",
-    "index.html": "/Sakuss/Sakuss.github.io/index.html",
-    "main.000f210f.css.map": "/Sakuss/Sakuss.github.io/static/css/main.000f210f.css.map",
-    "main.bf3e833a.js.map": "/Sakuss/Sakuss.github.io/static/js/main.bf3e833a.js.map",
-    "453.acca0757.chunk.js.map": "/Sakuss/Sakuss.github.io/static/js/453.acca0757.chunk.js.map"
+    "main.css": "/static/css/main.000f210f.css",
+    "main.js": "/static/js/main.eaa65939.js",
+    "static/js/453.acca0757.chunk.js": "/static/js/453.acca0757.chunk.js",
+    "static/media/kuva1.png": "/static/media/kuva1.87b8c0ba7a30ddfe348d.png",
+    "index.html": "/index.html",
+    "main.000f210f.css.map": "/static/css/main.000f210f.css.map",
+    "main.eaa65939.js.map": "/static/js/main.eaa65939.js.map",
+    "453.acca0757.chunk.js.map": "/static/js/453.acca0757.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.000f210f.css",
-    "static/js/main.bf3e833a.js"
+    "static/js/main.eaa65939.js"
   ]
 }
